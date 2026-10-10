@@ -21,7 +21,7 @@
     "@template/config": "workspace:*",
     "@types/node": "^22.10.2",
     "@types/react": "^19.0.2",
-    "react-email": "^3.0.4",
+    "react-email": "^6.11.1",
     "typescript": "^5.7.2"
   }
 }
