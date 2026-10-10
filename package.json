@@ -1,0 +1,45 @@
+{
+  "name": "@template/root",
+  "private": true,
+  "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test",
+    "format": "prettier --write \"**/*.{ts,tsx,js,mjs,json,md,css}\" --ignore-path .gitignore",
+    "db:generate": "pnpm --filter @template/db generate",
+    "db:migrate": "pnpm --filter @template/db migrate",
+    "db:studio": "pnpm --filter @template/db studio",
+    "knip": "knip",
+    "syncpack": "syncpack list-mismatches",
+    "changeset": "changeset",
+    "prepare": "husky || true"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,mjs}": [
+      "prettier --write"
+    ],
+    "*.{json,md,css,yml,yaml}": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.10",
+    "@commitlint/cli": "^19.6.0",
+    "@commitlint/config-conventional": "^19.6.0",
+    "@template/config": "workspace:*",
+    "husky": "^9.1.7",
+    "knip": "^5.40.0",
+    "lint-staged": "^15.2.10",
+    "prettier": "^3.4.2",
+    "syncpack": "^13.0.0",
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.2"
+  }
+}

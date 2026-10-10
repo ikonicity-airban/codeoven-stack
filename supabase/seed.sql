@@ -1,0 +1,1 @@
+-- Local seed data (runs on `supabase db reset`). Keep it idempotent.

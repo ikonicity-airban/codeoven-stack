@@ -1,0 +1,35 @@
+{
+  "name": "@template/web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@t3-oss/env-nextjs": "^0.11.1",
+    "@template/api": "workspace:*",
+    "@template/auth": "workspace:*",
+    "@template/ui": "workspace:*",
+    "@template/validators": "workspace:*",
+    "hono": "^4.6.14",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@template/config": "workspace:*",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.2",
+    "@playwright/test": "^1.49.1"
+  }
+}
