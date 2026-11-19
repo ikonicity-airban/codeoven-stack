@@ -1,0 +1,16 @@
+{
+  "name": "jsmastery-pro",
+  "displayName": "JS Mastery Pro",
+  "version": "1.0.0",
+  "description": "Agentic engineering skills by JavaScript Mastery for full-stack, Next.js, React, and TypeScript development.",
+  "author": {
+    "name": "JavaScript Mastery",
+    "url": "https://jsmastery.com"
+  },
+  "repository": "https://github.com/jsmastery-pro/skills",
+  "suggestedPrompts": [
+    "Architect a new full-stack feature",
+    "Audit repository architecture and conventions",
+    "Run a systematic root-cause debug session"
+  ]
+}

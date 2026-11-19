@@ -1,0 +1,11 @@
+{
+  "name": "game-development",
+  "displayName": "Game Development (Godot & WebGL/Three.js)",
+  "version": "1.0.0",
+  "description": "2D and 3D game development skills covering Godot Engine (GDScript), WebGL / Three.js, and interactive canvas games.",
+  "suggestedPrompts": [
+    "Architect 2D and 3D game mechanics in Godot using GDScript",
+    "Build interactive 3D WebGL scenes and animations with Three.js",
+    "Implement state machines, physics, and game loops in canvas"
+  ]
+}

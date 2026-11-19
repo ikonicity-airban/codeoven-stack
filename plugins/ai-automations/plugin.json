@@ -1,0 +1,11 @@
+{
+  "name": "ai-automations",
+  "displayName": "AI Systems & Workflow Automations",
+  "version": "1.0.0",
+  "description": "Architect AI agents, Retrieval-Augmented Generation (RAG) pipelines, LLM prompt engineering, and end-to-end task automation scripts.",
+  "suggestedPrompts": [
+    "Design a durable multi-agent orchestration workflow with tool calling",
+    "Implement a hybrid RAG pipeline with dense vector and keyword search",
+    "Build an automated web scraping and data pipeline using Playwright"
+  ]
+}

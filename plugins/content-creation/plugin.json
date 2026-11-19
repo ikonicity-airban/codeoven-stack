@@ -1,0 +1,9 @@
+{
+  "name": "content-creation",
+  "version": "1.0.0",
+  "description": "Production automated workflows for faceless YouTube channels, video retention scripting, AI voice & Remotion pipelines, and structured eBook authoring & publishing.",
+  "skills": [
+    "faceless-youtube-creator",
+    "ebook-creator"
+  ]
+}

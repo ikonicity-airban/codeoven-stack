@@ -1,0 +1,11 @@
+{
+  "name": "desktop-apps",
+  "displayName": "Desktop Applications (Tauri & Electron)",
+  "version": "1.0.0",
+  "description": "Cross-platform desktop application engineering skills for lightweight Tauri (Rust + Web) and feature-rich Electron apps.",
+  "suggestedPrompts": [
+    "Build a lightweight cross-platform desktop application with Tauri and Rust",
+    "Configure secure IPC communication and window management in Electron",
+    "Implement native system tray and file system dialogs for desktop apps"
+  ]
+}

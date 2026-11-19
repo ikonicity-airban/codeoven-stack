@@ -1,0 +1,11 @@
+{
+  "name": "tailwindcss",
+  "displayName": "Tailwind CSS Pro",
+  "version": "1.0.0",
+  "description": "Modern Tailwind CSS v4 & v3 mastery: CSS-first @theme tokens, OKLCH colors, component variants, and responsive patterns.",
+  "suggestedPrompts": [
+    "Configure Tailwind CSS v4 @theme design tokens and color scales",
+    "Build component variants using CVA and utility-first Tailwind classes",
+    "Migrate Tailwind CSS v3 configuration to Tailwind v4 CSS-first format"
+  ]
+}

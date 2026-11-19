@@ -1,0 +1,17 @@
+{
+  "name": "elephant-goldfish",
+  "displayName": "Elephant-Goldfish Model (EGM)",
+  "version": "0.1.1",
+  "description": "Spec-Driven Development framework by Google: Elephant acts as deep-context planner; Goldfish acts as zero-context adversarial reviewer.",
+  "author": {
+    "name": "Google"
+  },
+  "homepage": "https://egm.dev",
+  "repository": "https://github.com/google/elephant-goldfish-model",
+  "logo": "assets/icon.svg",
+  "suggestedPrompts": [
+    "Brainstorm and develop an idea with EGM",
+    "Draft a formal technical specification",
+    "Run a Goldfish review on my design document"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mobile-apps",
+  "displayName": "Mobile App Development (Expo & Flutter)",
+  "version": "1.0.0",
+  "description": "Cross-platform mobile development skills covering Expo & React Native (Expo Router, NativeWind, Reanimated) and Google Flutter & Dart architectures.",
+  "suggestedPrompts": [
+    "Build a cross-platform mobile screen using Expo Router and NativeWind",
+    "Implement state management and widget architecture in Flutter with Riverpod",
+    "Configure native mobile navigation and gestures in React Native"
+  ]
+}

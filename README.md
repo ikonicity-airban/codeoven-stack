@@ -66,3 +66,17 @@ Drizzle owns the schema: edit `packages/db/src/schema`, run `pnpm db:generate` t
 - Add `TURBO_TOKEN` (secret) and `TURBO_TEAM` (variable) for remote caching, optional.
 - Run `pnpm up -L -r` to refresh dependency versions.
 - Mark the repo as a template: Settings → General → Template repository.
+
+---
+
+## Antigravity Skills & AI Customizations
+
+This repository comes preloaded with the modular Antigravity skills and plugins library under `/skills` and `/plugins`. These provide AI coding agents (Antigravity, Claude Code, Cursor) with domain intelligence across:
+- **3D & WebGL**: `threejs-3d-webgl`, shaders, asset optimization
+- **Web3 & Blockchain**: `solana-anchor-rust`, `solidity-hardhat`, `web3-dapp-architecture`
+- **Mobile Development**: `expo-mobile`, `flutter-apps`
+- **Desktop & Native**: `tauri-desktop`, `electron-desktop`
+- **AI & Automation**: `agentic-workflows`, `rag-vector-search`, `automation-scripting`
+- **Content Creation**: `faceless-youtube-creator`, `ebook-creator`
+- **UI & Micro-Animations**: `scroll-craft`, `ui-design`, `tailwindcss`
+

@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-dapps",
+  "displayName": "Blockchain & Web3 dApps",
+  "version": "1.0.0",
+  "description": "Comprehensive Web3 engineering suite: Solana smart contracts (Rust & Anchor), EVM smart contracts (Solidity & Hardhat), and full-stack dApp architectures.",
+  "suggestedPrompts": [
+    "Write a secure Solana smart contract in Rust using the Anchor framework",
+    "Develop and test an EVM smart contract with Solidity and Hardhat",
+    "Integrate wallet connections and dApp transactions with Wagmi and Viem"
+  ]
+}

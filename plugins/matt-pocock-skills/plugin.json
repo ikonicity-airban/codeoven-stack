@@ -1,0 +1,16 @@
+{
+  "name": "matt-pocock-skills",
+  "displayName": "Matt Pocock Skills (Interactive & Docs)",
+  "version": "1.2.0",
+  "description": "Skills for Real Engineers by Matt Pocock: interactive option-menu grilling (/grill-me, /grill-interactive), grill with documentation (/grill-with-docs creating ADRs & GLOSSARY.md), spec-driven development, TDD, code review, and planning workflows.",
+  "author": {
+    "name": "Matt Pocock",
+    "url": "https://github.com/mattpocock"
+  },
+  "repository": "https://github.com/mattpocock/skills",
+  "suggestedPrompts": [
+    "Grill me on this architecture and generate ADRs and a glossary",
+    "Grill me on this architecture using interactive option menus",
+    "Convert requirements to a specification and atomic tickets"
+  ]
+}

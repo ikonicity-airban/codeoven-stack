@@ -1,0 +1,8 @@
+{
+  "name": "3d-development",
+  "version": "1.0.0",
+  "description": "Production-grade 3D graphics, Three.js, React Three Fiber, WebGL, WebGPU, shaders, and 3D asset optimization.",
+  "skills": [
+    "threejs-3d-webgl"
+  ]
+}

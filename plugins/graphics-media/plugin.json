@@ -1,0 +1,11 @@
+{
+  "name": "graphics-media",
+  "displayName": "Graphics, Media & SVG Design",
+  "version": "1.0.0",
+  "description": "Specialized creative engineering skills: SVG path animations, pixel-perfect icon design systems, and programmatic photo editing / background removal.",
+  "suggestedPrompts": [
+    "Animate vector SVG paths with CSS keyframes and stroke dashoffset",
+    "Design a scalable, accessible 24px icon set with optimized SVG paths",
+    "Remove photo background and optimize image formats with Sharp and Canvas"
+  ]
+}

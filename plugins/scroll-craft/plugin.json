@@ -1,0 +1,16 @@
+{
+  "name": "scroll-craft",
+  "displayName": "Scrollcraft",
+  "version": "0.3.0",
+  "description": "Build premium, cinematic scroll-driven landing pages with dimensional layered heroes, frame-scrubbed video, 8 page grammars, and visual verification.",
+  "author": {
+    "name": "Nate Herk / AI Automation Society",
+    "url": "https://github.com/nateherkai/scroll-craft"
+  },
+  "homepage": "https://github.com/nateherkai/scroll-craft",
+  "suggestedPrompts": [
+    "Use the Scrollcraft skill to build an immersive landing page",
+    "Design a dimensional hero with independent depth planes",
+    "Run scrollcraft preflight doctor and setup workspace"
+  ]
+}

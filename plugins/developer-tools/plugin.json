@@ -1,0 +1,11 @@
+{
+  "name": "developer-tools",
+  "displayName": "Developer Tools & Shell Scripting",
+  "version": "1.0.0",
+  "description": "Engineering skills for building CLI utilities, automation scripts, and cross-platform Bash / PowerShell tooling.",
+  "suggestedPrompts": [
+    "Build an interactive command-line CLI tool with Node.js and Clack",
+    "Write defensive, cross-platform Bash automation scripts",
+    "Create PowerShell developer scripts with robust parameter validation"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ui-design",
+  "displayName": "UI/UX Design Systems & Motion Engineering",
+  "version": "1.3.0",
+  "description": "Complete UI/UX design, motion, and animation suite: visual foundations, responsive layouts, WCAG accessibility, improve-ui audit plans, baseline-ui deslopping, Coss UI, Aceternity UI, shadcn/ui, Magic UI, scroll & parallax effects, micro-animations, smooth transitions, and typography mastery.",
+  "suggestedPrompts": [
+    "Implement smooth momentum scrolling and parallax effects with Lenis and GSAP",
+    "Design tactile micro-interactions and spring feedback for interactive components",
+    "Architect a fluid typography system using clamp() and modular scales"
+  ]
+}
