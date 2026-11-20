@@ -1,0 +1,127 @@
+{
+  "version": "1.0.0",
+  "name": "antigravity-skills",
+  "count": 24,
+  "skills": [
+    {
+      "name": "agentic-workflows",
+      "description": "Architect durable, autonomous AI agents and multi-agent workflows using tool calling, structured outputs (Zod), prompt chaining, and evaluation loops. Use when designing LLM agents, chatbot backends, or autonomous pipelines.",
+      "path": "skills/agentic-workflows/SKILL.md"
+    },
+    {
+      "name": "automation-scripting",
+      "description": "Create headless web scrapers, automated scheduled tasks, data ingestion pipelines, and webhook responders using Playwright, Python, and Node.js.",
+      "path": "skills/automation-scripting/SKILL.md"
+    },
+    {
+      "name": "bash-powershell-scripting",
+      "description": "Write robust, defensive shell scripts in Bash and PowerShell with proper error trapping, arguments parsing, and cross-platform compatibility.",
+      "path": "skills/bash-powershell-scripting/SKILL.md"
+    },
+    {
+      "name": "before-and-after",
+      "description": "Add existing screenshots or screen recordings to a GitHub pull request as a before/after or preview block. Use when a PR needs visual media attached to its description. Browser navigation and capture belong to agent-browser.",
+      "path": "skills/before-and-after/SKILL.md"
+    },
+    {
+      "name": "cli-tool-builder",
+      "description": "Build interactive, developer-friendly command-line tools using Node.js (Commander, Clack, Inquirer), Python (Click, Typer), or Rust (Clap).",
+      "path": "skills/cli-tool-builder/SKILL.md"
+    },
+    {
+      "name": "deep-research-analyst",
+      "description": "Autonomous multi-source technical and market research system. Formulates query vectors, audits primary sources (docs, RFCs, code, whitepapers), cross-examines contradictory claims, and synthesizes exhaustive, cite-backed intelligence reports.",
+      "path": "skills/deep-research-analyst/SKILL.md"
+    },
+    {
+      "name": "ebook-creator",
+      "description": "Comprehensive framework for drafting, formatting, compiling, and publishing professional non-fiction and technical eBooks to EPUB, PDF, and Kindle KDP formats using Markdown, Pandoc, and Typst.",
+      "path": "skills/ebook-creator/SKILL.md"
+    },
+    {
+      "name": "electron-desktop",
+      "description": "Build rich cross-platform desktop applications using Electron, Node.js, and Chromium. Use when configuring context isolation, secure IPC preload scripts, native menus, and auto-updaters.",
+      "path": "skills/electron-desktop/SKILL.md"
+    },
+    {
+      "name": "expo-mobile",
+      "description": "Architect and develop production cross-platform mobile apps with Expo and React Native. Use when implementing Expo Router, NativeWind (Tailwind), gesture handlers, Reanimated animations, or EAS workflows.",
+      "path": "skills/expo-mobile/SKILL.md"
+    },
+    {
+      "name": "faceless-youtube-creator",
+      "description": "End-to-end production system for faceless YouTube channels, including high-retention script engineering, AI voice pacing, Remotion and programmatic video generation, B-roll sourcing, and high-CTR thumbnail packaging.",
+      "path": "skills/faceless-youtube-creator/SKILL.md"
+    },
+    {
+      "name": "flutter-apps",
+      "description": "Build natively compiled mobile, desktop, and web applications using Google Flutter and Dart. Use when creating Flutter widget hierarchies, Riverpod state management, custom painters, and cross-platform layouts.",
+      "path": "skills/flutter-apps/SKILL.md"
+    },
+    {
+      "name": "godot-engine",
+      "description": "Design and develop 2D and 3D games in Godot Engine using GDScript. Use when implementing character controllers, node hierarchies, signals, physics systems, and state machines.",
+      "path": "skills/godot-engine/SKILL.md"
+    },
+    {
+      "name": "icon-design-systems",
+      "description": "Design, architect, and optimize pixel-perfect SVG icon systems aligned to 16/24/32px grids. Use when building custom icon libraries, SVGO optimization passes, or accessible React icon wrappers.",
+      "path": "skills/icon-design-systems/SKILL.md"
+    },
+    {
+      "name": "photo-editing-automation",
+      "description": "Automate photo editing, background removal, smart cropping, color grading, and format optimization using Sharp, rembg, Canvas, and ImageMagick.",
+      "path": "skills/photo-editing-automation/SKILL.md"
+    },
+    {
+      "name": "rag-vector-search",
+      "description": "Implement Retrieval-Augmented Generation (RAG) systems with smart chunking, dense vector embeddings, hybrid search (BM25 + vector), and reranking. Use when building question-answering systems or knowledge-base search.",
+      "path": "skills/rag-vector-search/SKILL.md"
+    },
+    {
+      "name": "scroll-craft",
+      "description": ">",
+      "path": "skills/scroll-craft/SKILL.md"
+    },
+    {
+      "name": "solana-anchor-rust",
+      "description": "Develop secure Solana on-chain programs using Rust and the Anchor framework. Use when writing Solana programs, PDA derivation, account validation, CPI calls, or building TypeScript client tests.",
+      "path": "skills/solana-anchor-rust/SKILL.md"
+    },
+    {
+      "name": "solidity-hardhat",
+      "description": "Author, test, and deploy production-grade Ethereum/EVM smart contracts using Solidity, Hardhat, and OpenZeppelin. Use when writing smart contracts, auditing vulnerabilities, running Hardhat tests, or managing gas optimization.",
+      "path": "skills/solidity-hardhat/SKILL.md"
+    },
+    {
+      "name": "svg-animation-craft",
+      "description": "Create scalable SVG graphics, kinetic path-drawing animations, SMIL, CSS keyframe morphs, and GSAP vector sequences. Use when building animated logos, illustrated graphics, or interactive vector UI.",
+      "path": "skills/svg-animation-craft/SKILL.md"
+    },
+    {
+      "name": "tauri-desktop",
+      "description": "Build secure, ultra-lightweight desktop applications using Tauri and Rust with web frontends (React, Vue, Svelte). Use when writing Tauri commands, configuring IPC, or packaging desktop binaries.",
+      "path": "skills/tauri-desktop/SKILL.md"
+    },
+    {
+      "name": "threejs-3d-webgl",
+      "description": "Architect, build, and optimize high-performance 3D web experiences, games, interactive scenes, and custom shaders using Three.js, React Three Fiber (R3F), Drei, Rapier physics, and WebGL/WebGPU.",
+      "path": "skills/threejs-3d-webgl/SKILL.md"
+    },
+    {
+      "name": "web-scraping-intelligence",
+      "description": "Production web scraping and content extraction engine. Automates dynamic SPA rendering with Playwright, extracts clean readable Markdown, handles pagination and infinite scroll, and runs automated website change monitoring.",
+      "path": "skills/web-scraping-intelligence/SKILL.md"
+    },
+    {
+      "name": "web3-dapp-architecture",
+      "description": "Architect and integrate frontend Web3 dApps with multi-wallet connectors, Wagmi, Viem, and Solana Web3.js. Use when implementing wallet auth, smart contract hooks, transaction status tracking, and RPC management.",
+      "path": "skills/web3-dapp-architecture/SKILL.md"
+    },
+    {
+      "name": "webgl-threejs-canvas",
+      "description": "Develop interactive 3D web games, GLTF model viewers, particle systems, and canvas games using Three.js and WebGL.",
+      "path": "skills/webgl-threejs-canvas/SKILL.md"
+    }
+  ]
+}
