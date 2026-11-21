@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.13.7",
-    "@hono/zod-validator": "^0.4.2",
+    "@hono/zod-validator": "^0.9.1",
     "@template/db": "workspace:*",
     "@template/jobs": "workspace:*",
     "@template/observability": "workspace:*",
